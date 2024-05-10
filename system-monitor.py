@@ -2,7 +2,8 @@ import psutil
 import logging
 from datetime import datetime
 import time
-import config import *
+import config
+from config import *
 
 #Configure logging
 logging.basicConfig(filename='system_monitor.log', level=logging.INFO,

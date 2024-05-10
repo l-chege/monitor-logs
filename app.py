@@ -1,6 +1,6 @@
 # flask web-based dashboard
 
-from flask import FLask
+from flask import Flask
 
 app = Flask(__name__)
 
