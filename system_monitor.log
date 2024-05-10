@@ -1,1 +1,11 @@
 2024-05-10 12:51:15,855 - INFO: CPU Usage: 98.4% | Memory Usage: 71.7% | Disk Usage: 41.9%
+2024-05-10 15:25:13,340 - INFO: CPU Usage: 63.6% | Memory Usage: 80.1% | Disk Usage: 43.4%
+2024-05-10 15:25:13,340 - ERROR: An error occurred: name 'smtplib' is not defined
+2024-05-10 15:25:14,387 - INFO: CPU Usage: 83.3% | Memory Usage: 80.3% | Disk Usage: 43.4%
+2024-05-10 15:25:14,387 - ERROR: An error occurred: name 'smtplib' is not defined
+2024-05-10 15:25:15,416 - INFO: CPU Usage: 64.6% | Memory Usage: 80.4% | Disk Usage: 43.4%
+2024-05-10 15:25:15,418 - ERROR: An error occurred: name 'smtplib' is not defined
+2024-05-10 15:25:16,421 - INFO: CPU Usage: 37.7% | Memory Usage: 80.3% | Disk Usage: 43.4%
+2024-05-10 15:25:16,421 - ERROR: An error occurred: name 'smtplib' is not defined
+2024-05-10 15:25:17,430 - INFO: CPU Usage: 7.3% | Memory Usage: 79.3% | Disk Usage: 43.4%
+2024-05-10 15:35:35,483 - INFO: CPU Usage: 9.3% | Memory Usage: 78.3% | Disk Usage: 43.4%
