@@ -1,5 +1,6 @@
 import psutil
 import logging
+import smtplib
 from datetime import datetime
 import time
 import config
