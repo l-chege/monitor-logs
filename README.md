@@ -1,6 +1,7 @@
 # System Resource Monitoring Script
 
-- This project aims to develop a Python Script that monitors local system resources (CPU usage, memory usage and disk usage) and logs the info to a file every hour. 
+- This project objective is to develop a Python Script that monitors local system resources (CPU usage, memory usage and disk usage) and logs the info to a file every hour. It aims to provide real-time insights into system performance and resource utilization.
+![Workflow](system-monitor.PNG)
 - It automates the exection of the script using 'cron' on Unix-based system.
 - Decided to impelement dockerization for simplified deployment.
 
