@@ -41,7 +41,4 @@ docker run -d --name system-monitor system-monitor
 - Grafana Integration to leverage on features such as visualizing system resource metrics.
 - Configure Prometheus to scrape metrics from the Python application.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pluu request with any improvements or bug fixes.
-
 Enjoy! 
